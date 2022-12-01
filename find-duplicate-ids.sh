@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## cd to the sakai/portal directory(
+## Update the path where you want to find the duplicate ids
 cd sakai/portal
 
 ## duplicate ids
