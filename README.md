@@ -1,4 +1,4 @@
-# Duplicate-Scripts
+# doppelganger
 
 ### Clone the repo
 
